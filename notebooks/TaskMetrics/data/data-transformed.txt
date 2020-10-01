@@ -1,0 +1,780 @@
+Id,Summary,Owned By,Status,Estimate,Time Spent,Planned For
+392995,[Doc] Authorship - p8445-5 - 2021.48.0.0,Sarita Maria De Melo,Done,1 hour,45 mins,Sprint 10.1
+392996,[Doc] First Review - p8445-5 - 2021.48.0.0,Reiron Ruan De Oliveira Lop,Done,30 mins,30 mins,Sprint 10.1
+392997,[Doc] Authorship - p9008 - 2021.48.0.0,Sarita Maria De Melo,Done,2 hours,2 hours,Sprint 10.1
+392998,[Doc] First Review - p9008 - 2021.48.0.0,Reiron Ruan De Oliveira Lop,Done,1 hour,1 hour,Sprint 10.1
+392999,[Doc] Authorship - p9045-1 - 2021.48.0.0,Sarita Maria De Melo,Done,1 hour 30 mins,1 hour,Sprint 10.1
+393000,[Doc] First Review - p9045-1 - 2021.48.0.0,Reiron Ruan De Oliveira Lop,Done,45 mins,48 mins,Sprint 10.1
+425773,Proto code implementation,Mateus Coutinho Sarmen,Done,12 hours,12 hours 30 mins,Sprint 10.1
+429405,Implementation,Mateus Coutinho Sarmen,Done,1 hour,30 mins,Sprint 10.1
+429406,Implementation 1st Review,Marcela Wanderley De Si,Done,30 mins,24 mins,Sprint 10.1
+429407,Implementation 2nd Review,Reiron Ruan De Oliveira Lop,Done,30 mins,30 mins,Sprint 10.1
+429414,Implementation,Mateus Coutinho Sarmen,Done,1 hour 30 mins,1 hour,Sprint 10.1
+429415,Implementation 1st Review,Sarita Maria De Melo,Done,45 mins,30 mins,Sprint 10.1
+429416,Implementation 2nd review,Gilberto Andrade Sousa J,Done,45 mins,1 hour 30 mins,Sprint 10.1
+429417,Implementation,Mateus Coutinho Sarmen,Done,4 hours,4 hours,Sprint 10.1
+429418,Implementation 1st Review,Sarita Maria De Melo,Done,2 hours,2 hours,Sprint 10.1
+429419,Implementation 2nd Review,Gilberto Andrade Sousa J,Done,2 hours,2 hours 30 mins,Sprint 10.1
+430471,Requirement Review,Rajiv Albino Torreao,Done,30 mins,1 hour,Sprint 10.1
+430472,Requirement Review,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.1
+430473,Code,Mateus Coutinho Sarmen,Done,1 hour 30 mins,1 hour,Sprint 10.1
+430474,Code Review,Rajiv Albino Torreao,Done,1 hour,1 hour,Sprint 10.1
+430475,Data Dictionary,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.1
+430476,Data Dictionary Review,Rajiv Albino Torreao,Done,30 mins,1 hour 30 mins,Sprint 10.1
+430477,Unit Testing,Mateus Coutinho Sarmen,Done,30 mins,2 hours 30 mins,Sprint 10.1
+430478,Requirement Review,Gilberto Andrade Sousa J,Done,1 hour,1 hour,Sprint 10.1
+430479,Requirement Review,Camila Corban Monteiro,Done,1 hour,1 hour 30 mins,Sprint 10.1
+430480,Design,Camila Corban Monteiro,Done,3 hours,3 hours,Sprint 10.1
+430481,Design Review,Gilberto Andrade Sousa J,Done,2 hours 30 mins,2 hours 30 mins,Sprint 10.1
+430482,Data Dictionary,Camila Corban Monteiro,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.1
+430483,Data Dictionary Review,Gilberto Andrade Sousa J,Done,1 hour,1 hour,Sprint 10.1
+430484,Unit Testing,Mateus Coutinho Sarmen,Done,2 hours 30 mins,1 hour 15 mins,Sprint 10.1
+430485,Requirement Review,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.3
+430486,Requirement Review,Camila Corban Monteiro,Done,1 hour,1 hour,Sprint 10.3
+430487,Design,Camila Corban Monteiro,Done,3 hours,3 hours 30 mins,Sprint 10.3
+430488,Design Review,Gilberto Andrade Sousa J,Done,2 hours 30 mins,3 hours,Sprint 10.3
+430489,Data Dictionary,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.3
+430490,Data Dictionary Review,Diogo Loreto Leal,Done,45 mins,1 hour,Sprint 10.3
+430491,UTCP,Mateus Coutinho Sarmen,Done,1 hour,45 mins,Sprint 10.3
+430492,UTCR,Diogo Loreto Leal,Done,45 mins,30 mins,Sprint 10.3
+430493,Unit Testing,Sarita Maria De Melo,Done,2 hours 30 mins,3 hours 30 mins,Sprint 10.3
+430494,Sponsor Verification,Sarita Maria De Melo,Done,30 mins,1 hour,Sprint 10.3
+430495,Code Review,Marcela Wanderley De Si,Done,1 hour,1 hour 30 mins,Sprint 10.1
+430496,Code Review,Marcela Wanderley De Si,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.1
+430497,Data Dictionary Review,Mateus Coutinho Sarmen,Done,1 hour 30 mins,3 hours,Sprint 10.2
+430498,Data Dictionary Review,Rajiv Albino Torreao,Done,1 hour,30 mins,Sprint 10.1
+430499,Code Review,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.1
+430500,Requirement Review,Gilberto Andrade Sousa J,Invalid,1 hour,,Sprint 10.1
+430501,Requirement Review,Camila Corban Monteiro,Invalid,1 hour,,Sprint 10.1
+430502,Design,Camila Corban Monteiro,Done,2 hours 30 mins,2 hours 30 mins,Sprint 10.1
+430503,Design Review,Gilberto Andrade Sousa J,Done,2 hours,2 hours 30 mins,Sprint 10.1
+430504,Data Dictionary,Camila Corban Monteiro,Done,30 mins,30 mins,Sprint 10.1
+430505,Data Dictionary Review,Gilberto Andrade Sousa J,Done,30 mins,30 mins,Sprint 10.1
+430506,Unit Testing,Mateus Coutinho Sarmen,Done,2 hours,1 hour 30 mins,Sprint 10.1
+430507,Requirement Review,Marcela Wanderley De Si,Invalid,30 mins,,Sprint 10.1
+430508,Requirement Review,Reiron Ruan De Oliveira Lop,Invalid,30 mins,,Sprint 10.1
+430509,Code,Marcela Wanderley De Si,Done,1 hour 30 mins,1 hour 18 mins,Sprint 10.1
+430510,Code Review,Reiron Ruan De Oliveira Lop,Done,1 hour,1 hour,Sprint 10.1
+430511,Data Dictionary,Unassigned,Invalid,,,Sprint 10.1
+430512,Data Dictionary Review,Unassigned,Invalid,,,Sprint 10.1
+430513,Unit Testing,Diogo Loreto Leal,Done,1 hour 30 mins,2 hours 30 mins,Sprint 10.1
+430514,Requirement Review,Marcela Wanderley De Si,Invalid,30 mins,,Sprint 10.1
+430515,Requirement Review,Reiron Ruan De Oliveira Lop,Invalid,30 mins,,Sprint 10.1
+430516,Code,Marcela Wanderley De Si,Done,1 hour 30 mins,30 mins,Sprint 10.1
+430517,Code Review,Reiron Ruan De Oliveira Lop,Done,1 hour,1 hour,Sprint 10.1
+430518,Data Dictionary,Marcela Wanderley De Si,Done,30 mins,30 mins,Sprint 10.1
+430519,Data Dictionary Review,Reiron Ruan De Oliveira Lop,Done,30 mins,30 mins,Sprint 10.1
+430520,Unit Testing,Diogo Loreto Leal,Done,1 hour 30 mins,2 hours 30 mins,Sprint 10.1
+430521,Requirement Review,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.1
+430522,Requirement Review,Marcela Wanderley De Si,Done,30 mins,30 mins,Sprint 10.1
+430523,Code,Mateus Coutinho Sarmen,Done,1 hour 30 mins,1 hour,Sprint 10.1
+430524,Code Review,Gilberto Andrade Sousa J,Done,1 hour,1 hour 15 mins,Sprint 10.1
+430525,Data Dictionary,Unassigned,Invalid,,,Sprint 10.1
+430526,Data Dictionary Review,Unassigned,Invalid,,,Sprint 10.1
+430527,Unit Testing,Mateus Coutinho Sarmen,Done,2 hours,1 hour 30 mins,Sprint 10.1
+430532,Data Dictionary,Gilberto Andrade Sousa J,Done,2 hours,6 hours,Sprint 10.2
+430533,Data Dictionary Review,Reiron Ruan De Oliveira Lop,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.2
+430535,Requirement Review,Sarita Maria De Melo,Done,30 mins,30 mins,Sprint 10.1
+430536,Requirement Review,Reiron Ruan De Oliveira Lop,Done,30 mins,30 mins,Sprint 10.1
+430537,Code,Reiron Ruan De Oliveira Lop,Done,1 hour 30 mins,2 hours,Sprint 10.1
+430538,Code Review,Mateus Coutinho Sarmen,Done,1 hour,1 hour,Sprint 10.1
+430539,Data Dictionary,Unassigned,Invalid,,,Sprint 10.1
+430540,Data Dictionary Review,Unassigned,Invalid,,,Sprint 10.1
+430541,Unit Testing,Mateus Coutinho Sarmen,Done,2 hours,30 mins,Sprint 10.1
+430542,Requirement Review,Rajiv Albino Torreao,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.1
+430543,Requirement Review,Mateus Coutinho Sarmen,Done,1 hour 30 mins,30 mins,Sprint 10.1
+430544,Code,Mateus Coutinho Sarmen,Done,2 hours,45 mins,Sprint 10.1
+430545,Code Review,Rajiv Albino Torreao,Done,1 hour 30 mins,2 hours,Sprint 10.1
+430546,Data Dictionary,Mateus Coutinho Sarmen,Done,2 hours,30 mins,Sprint 10.1
+430547,Data Dictionary Review,Sarita Maria De Melo,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.1
+430548,Sponsor Verification,Mateus Coutinho Sarmen,Done,30 mins,1 hour 15 mins,Sprint 10.1
+430549,Requirement Review,Gilberto Andrade Sousa J,Done,30 mins,30 mins,Sprint 10.1
+430550,Requirement Review,Camila Corban Monteiro,Done,30 mins,30 mins,Sprint 10.1
+430551,Design,Gilberto Andrade Sousa J,Done,2 hours 30 mins,2 hours 30 mins,Sprint 10.1
+430552,Design Review,Camila Corban Monteiro,Done,2 hours,1 hour 30 mins,Sprint 10.1
+430553,Data Dictionary,Unassigned,Invalid,,,Sprint 10.1
+430554,Data Dictionary Review,Unassigned,Invalid,,,Sprint 10.1
+430555,Sponsor Verification,Gilberto Andrade Sousa J,Done,30 mins,30 mins,Sprint 10.1
+430563,Requirement Review,Rajiv Albino Torreao,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.1
+430564,Requirement Review,Camila Corban Monteiro,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.1
+430565,Code,Camila Corban Monteiro,Done,2 hours,2 hours,Sprint 10.1
+430566,Code Review,Rajiv Albino Torreao,Done,1 hour 30 mins,2 hours,Sprint 10.1
+430567,Data Dictionary,Camila Corban Monteiro,Done,1 hour 30 mins,1 hour,Sprint 10.1
+430568,Data Dictionary Review,Marcela Wanderley De Si,Done,1 hour,30 mins,Sprint 10.1
+430569,Unit Testing,Camila Corban Monteiro,Done,10 hours,1 hour,Sprint 10.1
+430570,Implementation,Sarita Maria De Melo,Done,3 hours,3 hours,Sprint 10.1
+430571,Implementation Review,Mateus Coutinho Sarmen,Done,1 hour 30 mins,1 hour,Sprint 10.1
+430572,Implementation Review,Reiron Ruan De Oliveira Lop,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.1
+430573,Implementation,Diogo Loreto Leal,Done,2 hours,2 hours 30 mins,Sprint 10.2
+430574,Implementation Review,Camila Corban Monteiro,Done,1 hour,1 hour,Sprint 10.2
+430575,Implementation Review,Gilberto Andrade Sousa J,Done,1 hour,1 hour,Sprint 10.2
+430576,Implementation,Mateus Coutinho Sarmen,Done,1 hour 30 mins,45 mins,Sprint 10.1
+430577,Implementation 1st Review,Sarita Maria De Melo,Done,45 mins,30 mins,Sprint 10.1
+430578,Implementation 2nd Review,Gilberto Andrade Sousa J,Done,45 mins,1 hour 15 mins,Sprint 10.1
+430579,Implementation,Mateus Coutinho Sarmen,Done,2 hours,1 hour,Sprint 10.1
+430580,Implementation 1st Review,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.1
+430581,Implementation 2nd Review,Gilberto Andrade Sousa J,Done,1 hour,1 hour 30 mins,Sprint 10.1
+430582,Implementation,Mateus Coutinho Sarmen,Done,1 hour,30 mins,Sprint 10.1
+430583,Implementation 1st Review,Marcela Wanderley De Si,Done,30 mins,30 mins,Sprint 10.1
+430584,Implementation 2nd Review,Reiron Ruan De Oliveira Lop,Done,30 mins,30 mins,Sprint 10.1
+430585,Data Dictionary Review,Sarita Maria De Melo,Done,45 mins,1 hour,Sprint 10.2
+430587,Data Dictionary Review,Rajiv Albino Torreao,Done,45 mins,1 hour,Sprint 10.2
+430591,[Doc] Second Review - p9045-1 - 2021.48.0.0,Camila Corban Monteiro,Done,45 mins,30 mins,Sprint 10.1
+430592,[Doc] Second Review - p8445-5 - 2021.48.0.0,Camila Corban Monteiro,Done,30 mins,30 mins,Sprint 10.1
+430593,[Doc] Second Review - p9008 - 2021.48.0.0,Camila Corban Monteiro,Done,1 hour,1 hour,Sprint 10.1
+430594,[Thermal] 59S - Code,Mateus Coutinho Sarmen,Done,3 hours,3 hours,Sprint 10.1
+430595,[Thermal] 59S - Code Review,Reiron Ruan De Oliveira Lop,Done,2 hours,4 hours,Sprint 10.1
+430596,51S - Code,Mateus Coutinho Sarmen,Done,2 hours,1 hour,Sprint 10.1
+430597,51S - Code Review,Marcela Wanderley De Si,Done,1 hour 30 mins,3 hours 6 mins,Sprint 10.1
+430617,Design Review,Gilberto Andrade Sousa J,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.1
+430620,Data Dictionary Review,Gilberto Andrade Sousa J,Done,30 mins,30 mins,Sprint 10.1
+432901,Implementation Review,Gilberto Andrade Sousa J,Done,2 hours,2 hours,Sprint 10.1
+433346,Implementation Review,Marcela Wanderley De Si,Done,1 hour,48 mins,Sprint 10.1
+433772,Code Review,Sarita Maria De Melo,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.1
+433773,Data Dictionary Review,Rajiv Albino Torreao,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.1
+433967,[GF & Lub] 59S - Code Review,Gilberto Andrade Sousa J,Done,2 hours,2 hours 15 mins,Sprint 10.1
+434134,[GE] 59S - Code Review,Diogo Loreto Leal,Done,2 hours,2 hours 30 mins,Sprint 10.1
+434137,[GE] 59S - Code,Marcela Wanderley De Si,Done,3 hours,2 hours 30 mins,Sprint 10.1
+434138,[GF & Lub] 59S - Code,Sarita Maria De Melo,Done,3 hours,3 hours,Sprint 10.1
+434146,Analysis and Planning,Gilberto Andrade Sousa J,Done,6 hours,5 hours,Sprint 10.1
+434147,Analysis and Planning,Camila Corban Monteiro,Done,6 hours,6 hours,Sprint 10.1
+435440,Sponsor Verification,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.1
+435441,Sponsor Verification,Mateus Coutinho Sarmen,Done,30 mins,15 mins,Sprint 10.1
+435607,Proto code review,Marcela Wanderley De Si,Done,8 hours,8 hours 12 mins,Sprint 10.1
+435879,UTCP,Mateus Coutinho Sarmen,Done,2 hours,1 hour 30 mins,Sprint 10.1
+435880,UTCR,Marcela Wanderley De Si,Done,1 hour 30 mins,42 mins,Sprint 10.1
+435881,UTCR,Diogo Loreto Leal,Done,1 hour 30 mins,1 hour,Sprint 10.1
+436458,Code generation,Gilberto Andrade Sousa J,Done,15 mins,18 mins,Sprint 10.1
+436459,Review and promote,Mateus Coutinho Sarmen,Done,2 hours,2 hours,Sprint 10.1
+437188,Proto design implementation,Gilberto Andrade Sousa J,Done,4 hours,9 hours,Sprint 10.1
+437190,Proto design review,Diogo Loreto Leal,Done,3 hours,4 hours,Sprint 10.1
+437201,Sponsor Verification,Mateus Coutinho Sarmen,Done,30 mins,15 mins,Sprint 10.1
+437989,Implementation,Diogo Loreto Leal,Done,2 hours 30 mins,1 hour 30 mins,Sprint 10.4
+437990,Implementation review,Marcela Wanderley De Si,Done,2 hours,1 hour,Sprint 10.4
+439699,Requirement Review,Mateus Coutinho Sarmen,Done,2 hours,2 hours 30 mins,Sprint 10.2
+439700,Requirement Review,Reiron Ruan De Oliveira Lop,Done,1 hour 30 mins,2 hours,Sprint 10.2
+439701,Code,Gilberto Andrade Sousa J,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.2
+439702,Code Review,Camila Corban Monteiro,Done,1 hour,1 hour,Sprint 10.2
+439703,Data Dictionary,Unassigned,Invalid,,,Sprint 10.2
+439704,Data Dictionary Review,Unassigned,Invalid,,,Sprint 10.2
+439705,Unit Testing,Mateus Coutinho Sarmen,Done,6 hours,5 hours,Sprint 10.2
+439706,Requirement Review,Gilberto Andrade Sousa J,Done,30 mins,1 hour,Sprint 10.2
+439707,Requirement Review,Camila Corban Monteiro,Invalid,30 mins,,Sprint 10.2
+439708,Design,Mateus Coutinho Sarmen,Done,3 hours,3 hours 30 mins,Sprint 10.2
+439709,Design Review,Reiron Ruan De Oliveira Lop,Done,2 hours 30 mins,3 hours,Sprint 10.2
+439710,Data Dictionary,Unassigned,Invalid,,,Sprint 10.2
+439711,Data Dictionary Review,Unassigned,Invalid,,,Sprint 10.2
+439712,Unit Testing,Gilberto Andrade Sousa J,Done,2 hours,8 hours,Sprint 10.2
+439713,Requirement Review,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.2
+439714,Requirement Review,Sarita Maria De Melo,Done,30 mins,30 mins,Sprint 10.2
+439715,Code,Sarita Maria De Melo,Done,1 hour 30 mins,2 hours,Sprint 10.2
+439716,Code Review,Rajiv Albino Torreao,Done,1 hour,30 mins,Sprint 10.2
+439717,Data Dictionary,Sarita Maria De Melo,Done,30 mins,30 mins,Sprint 10.2
+439718,Data Dictionary Review,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.2
+439719,Unit Testing,Sarita Maria De Melo,Done,30 mins,30 mins,Sprint 10.2
+439720,Requirement Review,Rajiv Albino Torreao,Done,1 hour,1 hour,Sprint 10.2
+439721,Requirement Review,Mateus Coutinho Sarmen,Done,1 hour,1 hour,Sprint 10.2
+439722,Code,Mateus Coutinho Sarmen,Done,1 hour 30 mins,2 hours,Sprint 10.2
+439723,Code Review,Sarita Maria De Melo,Done,1 hour,30 mins,Sprint 10.2
+439724,Code Review,Rajiv Albino Torreao,Done,1 hour,1 hour 30 mins,Sprint 10.2
+439725,Data Dictionary,Mateus Coutinho Sarmen,Done,1 hour,1 hour 45 mins,Sprint 10.2
+439726,Data Dictionary Review,Sarita Maria De Melo,Done,45 mins,30 mins,Sprint 10.2
+439727,Data Dictionary Review,Rajiv Albino Torreao,Done,45 mins,1 hour,Sprint 10.2
+439728,Unit Testing,Mateus Coutinho Sarmen,Done,5 hours,3 hours,Sprint 10.2
+439729,Requirement Review,Camila Corban Monteiro,Done,45 mins,1 hour,Sprint 10.2
+439730,Requirement Review,Marcela Wanderley De Si,Done,45 mins,1 hour,Sprint 10.2
+439731,Code,Marcela Wanderley De Si,Done,2 hours,1 hour 18 mins,Sprint 10.2
+439732,Code Review,Camila Corban Monteiro,Done,1 hour,1 hour,Sprint 10.2
+439733,Code Review,Rajiv Albino Torreao,Done,1 hour,1 hour,Sprint 10.2
+439734,Data Dictionary,Marcela Wanderley De Si,Done,1 hour,54 mins,Sprint 10.2
+439735,Data Dictionary Review,Camila Corban Monteiro,Done,45 mins,45 mins,Sprint 10.2
+439736,Data Dictionary Review,Rajiv Albino Torreao,Done,45 mins,30 mins,Sprint 10.2
+439737,Unit Testing,Marcela Wanderley De Si,Done,2 hours,5 hours 36 mins,Sprint 10.2
+439738,Requirement Review,Unassigned,Invalid,,,Sprint 10.2
+439739,Requirement Review,Unassigned,Invalid,,,Sprint 10.2
+439740,Code,Mateus Coutinho Sarmen,Done,1 hour,30 mins,Sprint 10.2
+439741,Code Review,Rajiv Albino Torreao,Done,45 mins,1 hour,Sprint 10.2
+439742,Code Review,Sarita Maria De Melo,Done,45 mins,48 mins,Sprint 10.2
+439743,Data Dictionary,Unassigned,Invalid,,,Sprint 10.2
+439744,Data Dictionary Review,Unassigned,Invalid,,,Sprint 10.2
+439745,Data Dictionary Review,Unassigned,Invalid,,,Sprint 10.2
+439746,Unit Testing,Mateus Coutinho Sarmen,Done,2 hours,1 hour 30 mins,Sprint 10.2
+439747,Requirement Review,Rajiv Albino Torreao,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.2
+439748,Requirement Review,Mateus Coutinho Sarmen,Done,1 hour 30 mins,30 mins,Sprint 10.2
+439749,Code,Mateus Coutinho Sarmen,Done,2 hours,4 hours,Sprint 10.2
+439750,Code Review,Rajiv Albino Torreao,Done,1 hour,1 hour 30 mins,Sprint 10.2
+439751,Code Review,Sarita Maria De Melo,Done,1 hour,1 hour 30 mins,Sprint 10.2
+439752,Data Dictionary,Mateus Coutinho Sarmen,Done,1 hour,30 mins,Sprint 10.2
+439753,Unit Testing,Mateus Coutinho Sarmen,Done,5 hours,2 hours,Sprint 10.2
+439754,Requirement Review,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.2
+439755,Requirement Review,Gilberto Andrade Sousa J,Done,30 mins,30 mins,Sprint 10.2
+439756,Code,Gilberto Andrade Sousa J,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.2
+439757,Code Review,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.2
+439758,Code Review,Reiron Ruan De Oliveira Lop,Done,45 mins,1 hour,Sprint 10.2
+439759,Unit Testing,Reiron Ruan De Oliveira Lop,Done,4 hours,8 hours,Sprint 10.2
+439760,[AirFlow] 550S + 361S - Code,Camila Corban Monteiro,Done,4 hours,4 hours,Sprint 10.2
+439761,[AirFlow] 550S + 361S - Code Review,Mateus Coutinho Sarmen,Done,3 hours,1 hour 30 mins,Sprint 10.2
+439762,[Thermal&Lub] 550S + 361S - Code,Mateus Coutinho Sarmen,Done,4 hours,3 hours,Sprint 10.2
+439763,[Thermal&Lub] 550S + 361S - Code Review,Rajiv Albino Torreao,Done,3 hours,3 hours,Sprint 10.3
+441548,Review LCN based on initial mark-up (LCN_DRFE549 protoA),Gilberto Andrade Sousa J,Done,3 hours,2 hours,Sprint 10.2
+441952,Optimization investigation and analysis 1,Marcela Wanderley De Si,Done,8 hours,3 hours,Sprint 10.2
+441953,Optimization investigation and analysis 2,Gilberto Andrade Sousa J,Done,8 hours,3 hours,Sprint 10.2
+441954,Optimization investigation and analysis 1,Mateus Coutinho Sarmen,Done,8 hours,8 hours,Sprint 10.2
+441955,Optimization investigation and analysis 2,Camila Corban Monteiro,Done,8 hours,2 hours,Sprint 10.2
+441956,Optimization investigation and analysis 3,Sarita Maria De Melo,Done,8 hours,4 hours,Sprint 10.2
+441957,Optimization investigation and analysis 4,Rajiv Albino Torreao,Done,8 hours,7 hours,Sprint 10.2
+442298,Sponsor Verification,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.2
+442336,Sponsor Verification,Marcela Wanderley De Si,Done,1 hour,6 mins,Sprint 10.2
+442499,Requirement Review,Gilberto Andrade Sousa J,Done,30 mins,30 mins,Sprint 10.2
+442559,Requirement Review,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.2
+442560,Code,Gilberto Andrade Sousa J,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.2
+442561,Code Review,Reiron Ruan De Oliveira Lop,Done,45 mins,1 hour,Sprint 10.2
+442562,Code Review,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.2
+442570,Unit Testing,Reiron Ruan De Oliveira Lop,Done,1 hour,2 hours,Sprint 10.2
+442682,Requirement Review (support),Camila Corban Monteiro,Invalid,1 hour,,Sprint 10.2
+442683,Design Review (support),Camila Corban Monteiro,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.2
+442709,Review Features List for 21MY Phase 18.1,Sarita Maria De Melo,Done,1 hour 30 mins,1 hour,Sprint 10.2
+443143,Analysis and planning,Unassigned,Invalid,2 hours,,Sprint 10.2
+443144,Production markup,Camila Corban Monteiro,Done,2 hours,2 hours,Sprint 10.2
+443594,UTCP,Diogo Loreto Leal,Done,45 mins,1 hour 30 mins,Sprint 10.2
+443595,UTCR,Reiron Ruan De Oliveira Lop,Done,30 mins,30 mins,Sprint 10.2
+443596,UTCR,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.2
+443597,Sponsor Verification,Reiron Ruan De Oliveira Lop,Done,30 mins,30 mins,Sprint 10.2
+443951,UTCP,Sarita Maria De Melo,Done,1 hour 30 mins,4 hours,Sprint 10.2
+443952,UTCR,Gilberto Andrade Sousa J,Done,1 hour,1 hour 30 mins,Sprint 10.2
+443953,UTCR,Mateus Coutinho Sarmen,Done,1 hour,45 mins,Sprint 10.2
+443954,UTCP,Sarita Maria De Melo,Done,1 hour 30 mins,1 hour 45 mins,Sprint 10.2
+443955,UTCR,Mateus Coutinho Sarmen,Done,1 hour,30 mins,Sprint 10.2
+443956,UTCR,Gilberto Andrade Sousa J,Done,1 hour,1 hour 30 mins,Sprint 10.2
+443957,UTCP,Sarita Maria De Melo,Done,1 hour 30 mins,2 hours,Sprint 10.2
+443958,UTCR,Mateus Coutinho Sarmen,Done,1 hour,1 hour,Sprint 10.2
+443959,UTCR,Gilberto Andrade Sousa J,Done,1 hour,1 hour 30 mins,Sprint 10.2
+444233,Code,Mateus Coutinho Sarmen,Done,2 hours 30 mins,2 hours 30 mins,Sprint 10.2
+444236,Code Review,Rajiv Albino Torreao,Done,2 hours,2 hours,Sprint 10.2
+444237,Code Review,Sarita Maria De Melo,Done,2 hours,3 hours,Sprint 10.2
+444241,Data Dictionary,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.2
+444243,Data Dictionary Review,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.2
+444245,Data Dictionary Review,Sarita Maria De Melo,Done,30 mins,30 mins,Sprint 10.2
+444549,Code,Mateus Coutinho Sarmen,Done,4 hours,2 hours 30 mins,Sprint 10.2
+444550,Code Review,Sarita Maria De Melo,Done,2 hours,2 hours 30 mins,Sprint 10.2
+444551,Code Review,Rajiv Albino Torreao,Done,2 hours,2 hours,Sprint 10.2
+444552,Data Dictionary,Mateus Coutinho Sarmen,Done,2 hours,45 mins,Sprint 10.2
+444553,Data Dictionary Review,Rajiv Albino Torreao,Done,1 hour,1 hour,Sprint 10.2
+444554,Data Dictionary Review,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.2
+444555,Code,Mateus Coutinho Sarmen,Done,2 hours,1 hour 30 mins,Sprint 10.2
+444556,Code Review,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.2
+444557,Code Review,Rajiv Albino Torreao,Done,1 hour,1 hour 30 mins,Sprint 10.2
+444558,Data Dictionary,Mateus Coutinho Sarmen,Done,1 hour,30 mins,Sprint 10.2
+444559,Data Dictionary Review,Sarita Maria De Melo,Done,30 mins,30 mins,Sprint 10.2
+444560,Data Dictionary Review,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.2
+445137,Code,Diogo Loreto Leal,Done,1 hour,1 hour,Sprint 10.2
+445138,Code Review,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.2
+445139,Code Review,Camila Corban Monteiro,Done,45 mins,1 hour,Sprint 10.2
+445325,Unit Testing,Diogo Loreto Leal,Done,2 hours,2 hours,Sprint 10.2
+445326,UTR,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.2
+445327,UTR,Camila Corban Monteiro,Done,30 mins,45 mins,Sprint 10.2
+445530,Sponsor Verification,Gilberto Andrade Sousa J,Done,30 mins,30 mins,Sprint 10.2
+445531,UTCP,Marcela Wanderley De Si,Done,2 hours,1 hour 30 mins,Sprint 10.2
+445532,UTCR,Mateus Coutinho Sarmen,Done,1 hour,45 mins,Sprint 10.2
+445533,UTCR,Reiron Ruan De Oliveira Lop,Done,1 hour,1 hour,Sprint 10.2
+446569,Requirement Review,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.3
+446570,Requirement Review,Gilberto Andrade Sousa J,Done,30 mins,30 mins,Sprint 10.3
+446571,Design,Gilberto Andrade Sousa J,Done,2 hours 30 mins,3 hours,Sprint 10.3
+446572,Design Review,Camila Corban Monteiro,Done,2 hours,1 hour 30 mins,Sprint 10.3
+446573,Data Dictionary,Unassigned,Invalid,,,Sprint 10.3
+446574,Data Dictionary Review,Unassigned,Invalid,,,Sprint 10.3
+446575,Unit Testing,Mateus Coutinho Sarmen,Done,1 hour,1 hour,Sprint 10.3
+446576,Requirement Review,Reiron Ruan De Oliveira Lop,Done,1 hour,1 hour,Sprint 10.4
+446577,Requirement Review,Reiron Ruan De Oliveira Lop,Done,1 hour,12 mins,Sprint 10.3
+446578,Design,Sarita Maria De Melo,Done,3 hours,3 hours,Sprint 10.3
+446579,Design Review,Reiron Ruan De Oliveira Lop,Done,2 hours,1 hour,Sprint 10.3
+446580,Data Dictionary,Unassigned,Invalid,,,Sprint 10.3
+446581,Data Dictionary Review,Unassigned,Invalid,,,Sprint 10.3
+446582,Unit Testing,Sarita Maria De Melo,Done,3 hours,3 hours,Sprint 10.3
+446583,Requirement Review,Gilberto Andrade Sousa J,Done,3 hours,3 hours,Sprint 10.4
+446584,Requirement Review,Camila Corban Monteiro,Done,3 hours,3 hours 30 mins,Sprint 10.4
+446585,Design,Camila Corban Monteiro,Done,6 hours,9 hours,Sprint 10.4
+446586,Design Review,Gilberto Andrade Sousa J,Done,4 hours,6 hours,Sprint 10.4
+446587,Data Dictionary,Camila Corban Monteiro,Done,1 hour 30 mins,3 hours,Sprint 10.4
+446588,Data Dictionary Review,Gilberto Andrade Sousa J,Done,45 mins,2 hours 30 mins,Sprint 10.4
+446589,Unit Testing,Mateus Coutinho Sarmen,Done,6 hours,8 hours,Sprint 10.4
+446596,UTCP,Reiron Ruan De Oliveira Lop,Done,6 hours,10 hours 30 mins,Sprint 10.4
+446597,UTCR,Mateus Coutinho Sarmen,Done,4 hours,5 hours,Sprint 10.4
+446599,Sponsor Verification,Mateus Coutinho Sarmen,Done,30 mins,1 hour,Sprint 10.4
+446600,Proto Review,Mateus Coutinho Sarmen,Done,3 hours,3 hours,Sprint 10.3
+446619,UTCP,Sarita Maria De Melo,Done,3 hours,3 hours,Sprint 10.3
+446620,UTCR,Reiron Ruan De Oliveira Lop,Done,4 hours,2 hours,Sprint 10.3
+446756,Requirement Review,Marcela Wanderley De Si,Done,45 mins,42 mins,Sprint 10.3
+446757,Design,Camila Corban Monteiro,Done,2 hours 30 mins,3 hours,Sprint 10.3
+446758,Design Review,Gilberto Andrade Sousa J,Done,2 hours,2 hours,Sprint 10.3
+446759,Data Dictionary,Diogo Loreto Leal,Done,45 mins,1 hour,Sprint 10.3
+446760,Data Dictionary Review,Marcela Wanderley De Si,Done,30 mins,30 mins,Sprint 10.3
+446761,Unit Testing,Marcela Wanderley De Si,Done,30 mins,30 mins,Sprint 10.3
+447263,Design Review,Camila Corban Monteiro,Done,3 hours,1 hour 30 mins,Sprint 10.3
+447266,Data Dictionary Review,Camila Corban Monteiro,Done,2 hours,1 hour,Sprint 10.3
+448512,Code,Mateus Coutinho Sarmen,Done,1 hour,45 mins,Sprint 10.3
+448513,Code Review,Reiron Ruan De Oliveira Lop,Done,1 hour,1 hour,Sprint 10.3
+448514,Code Review,Diogo Loreto Leal,Done,1 hour,1 hour 30 mins,Sprint 10.3
+448515,Code,Marcela Wanderley De Si,Done,1 hour,1 hour 12 mins,Sprint 10.3
+448516,Code Review,Sarita Maria De Melo,Done,1 hour,45 mins,Sprint 10.3
+448517,Code Review,Rajiv Albino Torreao,Done,1 hour,1 hour,Sprint 10.3
+448518,Unit Testing,Reiron Ruan De Oliveira Lop,Done,2 hours,5 hours,Sprint 10.3
+448519,Unit Testing,Marcela Wanderley De Si,Done,2 hours,1 hour 42 mins,Sprint 10.3
+448520,Improvement opportunities analysis (CG),Camila Corban Monteiro,New,2 hours,,Sprint 10.5
+448521,Improvement opportunities analysis (EB),Euler Bakke Duarte De,Done,8 hours,2 hours,Sprint 10.3
+448522,Improvement opportunities analysis (GS),Gilberto Andrade Sousa J,Done,2 hours,1 hour,Sprint 10.4
+448523,Improvement opportunities analysis (MG),Marcela Wanderley De Si,Done,8 hours,1 hour,Sprint 10.3
+448524,Improvement opportunities analysis (MS),Mateus Coutinho Sarmen,Done,8 hours,4 hours,Sprint 10.4
+448525,Improvement opportunities analysis (RT),Rajiv Albino Torreao,Done,8 hours,2 hours,Sprint 10.3
+448526,Improvement opportunities analysis (SM),Sarita Maria De Melo,Done,2 hours,30 mins,Sprint 10.4
+448969,Design,Gilberto Andrade Sousa J,Done,2 hours,3 hours,Sprint 10.3
+448970,Design Review,Camila Corban Monteiro,Done,1 hour 30 mins,1 hour,Sprint 10.3
+449412,[Thermal&Lub] 587S - Code,Mateus Coutinho Sarmen,Done,6 hours,2 hours,Sprint 10.3
+449413,[Thermal&Lub] 587S - Code Review,Sarita Maria De Melo,Done,4 hours,1 hour 30 mins,Sprint 10.3
+449414,[AirFlow] 587S - Code,Sarita Maria De Melo,Done,4 hours 30 mins,2 hours,Sprint 10.3
+449415,[AirFlow] 587S - Code Review,Mateus Coutinho Sarmen,Done,3 hours,1 hour,Sprint 10.3
+449428,CoE presentation preparation (CG),Camila Corban Monteiro,Done,2 hours,2 hours,Sprint 10.5
+449429,CoE presentation preparation (GS),Gilberto Andrade Sousa J,Done,2 hours,2 hours,Sprint 10.5
+449430,CoE presentation preparation (SM),Sarita Maria De Melo,Done,2 hours,2 hours,Sprint 10.3
+449492,Documentation Review,Gilberto Andrade Sousa J,Done,2 hours,3 hours,Sprint 10.3
+449493,Documentation Review,Marcela Wanderley De Si,Done,1 hour 30 mins,3 hours 48 mins,Sprint 10.3
+450091,SV,Camila Corban Monteiro,Done,4 hours,3 hours,Sprint 10.4
+450681,[Thermal&Lub] 9S - Code,Mateus Coutinho Sarmen,Done,3 hours,1 hour,Sprint 10.3
+450682,[Thermal&Lub] 9S - Code Review,Gilberto Andrade Sousa J,Done,2 hours,1 hour,Sprint 10.3
+450683,[AirFlow] 9S - Code,Diogo Loreto Leal,Done,4 hours 30 mins,5 hours,Sprint 10.3
+450684,[AirFlow] 9S - Code Review,Rajiv Albino Torreao,Done,3 hours,3 hours,Sprint 10.3
+450937,UTCR,Unassigned,Invalid,2 hours 30 mins,,Sprint 10.3
+450977,UTCP,Sarita Maria De Melo,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.3
+450978,UTCR,Marcela Wanderley De Si,Done,1 hour,36 mins,Sprint 10.3
+450979,UTCR,Rajiv Albino Torreao,Done,1 hour,1 hour,Sprint 10.3
+451007,UTCP,Sarita Maria De Melo,Done,3 hours,2 hours 30 mins,Sprint 10.4
+451008,UTCR,Marcela Wanderley De Si,Done,2 hours,1 hour 18 mins,Sprint 10.4
+451009,UTCR,Gilberto Andrade Sousa J,Done,2 hours,1 hour 30 mins,Sprint 10.4
+451035,UTCR,Gilberto Andrade Sousa J,Done,45 mins,48 mins,Sprint 10.3
+451277,Requirement Review,Reiron Ruan De Oliveira Lop,Done,2 hours 30 mins,2 hours 30 mins,Sprint 10.3
+451278,Requirement Review,Marcela Wanderley De Si,Done,2 hours 30 mins,1 hour 54 mins,Sprint 10.3
+451279,Code,Mateus Coutinho Sarmen,Done,3 hours,2 hours 30 mins,Sprint 10.3
+451280,Code Review,Marcela Wanderley De Si,Done,2 hours,1 hour,Sprint 10.3
+451281,Code Review,Reiron Ruan De Oliveira Lop,Done,2 hours,1 hour 30 mins,Sprint 10.3
+451282,Data Dictionary,Mateus Coutinho Sarmen,Done,1 hour 30 mins,45 mins,Sprint 10.3
+451283,Data Dictionary Review,Marcela Wanderley De Si,Done,1 hour,48 mins,Sprint 10.3
+451284,Data Dictionary Review,Reiron Ruan De Oliveira Lop,Done,1 hour,1 hour,Sprint 10.3
+451285,Unit Testing,Mateus Coutinho Sarmen,Done,6 hours,6 hours,Sprint 10.3
+451286,Requirement Review,Mateus Coutinho Sarmen,Done,1 hour,1 hour,Sprint 10.3
+451287,Requirement Review,Marcela Wanderley De Si,Done,1 hour,1 hour 36 mins,Sprint 10.3
+451288,Code,Mateus Coutinho Sarmen,Done,2 hours,1 hour,Sprint 10.3
+451289,Code Review,Marcela Wanderley De Si,Done,1 hour,36 mins,Sprint 10.3
+451290,Code Review,Reiron Ruan De Oliveira Lop,Done,1 hour,30 mins,Sprint 10.3
+451291,Unit Testing,Mateus Coutinho Sarmen,Done,4 hours,3 hours,Sprint 10.3
+451292,Requirement Review,Reiron Ruan De Oliveira Lop,Done,1 hour,1 hour,Sprint 10.3
+451293,Requirement Review,Mateus Coutinho Sarmen,Done,1 hour,1 hour 45 mins,Sprint 10.3
+451294,Code,Reiron Ruan De Oliveira Lop,Done,1 hour 30 mins,2 hours,Sprint 10.4
+451295,Code Review,Sarita Maria De Melo,Done,1 hour,45 mins,Sprint 10.4
+451296,Code Review,Sarita Maria De Melo,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.4
+451297,Data Dictionary,Mateus Coutinho Sarmen,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.3
+451298,Data Dictionary Review,Marcela Wanderley De Si,Done,1 hour,1 hour 6 mins,Sprint 10.3
+451299,Data Dictionary Review,Reiron Ruan De Oliveira Lop,Done,1 hour,1 hour,Sprint 10.3
+451300,Unit Testing,Marcela Wanderley De Si,Done,3 hours,2 hours,Sprint 10.4
+451911,SV,Camila Corban Monteiro,Done,2 hours,1 hour 30 mins,Sprint 10.4
+452683,Requirement Review,Reiron Ruan De Oliveira Lop,Done,2 hours,2 hours,Sprint 10.3
+452684,Design,Sarita Maria De Melo,Done,4 hours 30 mins,4 hours,Sprint 10.3
+452685,Design Review,Reiron Ruan De Oliveira Lop,Done,3 hours,2 hours,Sprint 10.3
+452686,Data Dictionary,Reiron Ruan De Oliveira Lop,Done,1 hour 30 mins,3 hours,Sprint 10.3
+452687,Data Dictionary Review,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.3
+452688,UTCP,Sarita Maria De Melo,Done,3 hours,3 hours,Sprint 10.3
+452689,UTCR,Reiron Ruan De Oliveira Lop,Done,4 hours,2 hours,Sprint 10.3
+452690,UTCR,Unassigned,Invalid,30 mins,,Sprint 10.3
+452691,Unit Testing,Sarita Maria De Melo,Done,3 hours,3 hours,Sprint 10.3
+452692,Requirement Review,Mateus Coutinho Sarmen,Done,1 hour,30 mins,Sprint 10.4
+452693,Design,Marcela Wanderley De Si,Done,3 hours,6 hours,Sprint 10.4
+452694,Design Review,Mateus Coutinho Sarmen,Done,2 hours,1 hour 30 mins,Sprint 10.4
+452695,Data Dictionary,Marcela Wanderley De Si,Done,1 hour,1 hour 36 mins,Sprint 10.4
+452696,Data Dictionary Review,Mateus Coutinho Sarmen,Done,45 mins,30 mins,Sprint 10.4
+452697,UTCP,Marcela Wanderley De Si,Done,2 hours,2 hours 18 mins,Sprint 10.4
+452698,UTCR,Mateus Coutinho Sarmen,Done,3 hours,1 hour 30 mins,Sprint 10.4
+452699,UTCR,Unassigned,Invalid,30 mins,,Sprint 10.4
+452700,Unit Testing,Marcela Wanderley De Si,Done,2 hours,2 hours,Sprint 10.4
+452701,Requirement Review,Gilberto Andrade Sousa J,Done,2 hours,2 hours,Sprint 10.3
+452702,Design,Gilberto Andrade Sousa J,Done,6 hours,10 hours,Sprint 10.3
+452703,Design Review,Camila Corban Monteiro,Done,4 hours,4 hours,Sprint 10.3
+452704,Data Dictionary,Mateus Coutinho Sarmen,Done,3 hours,2 hours,Sprint 10.3
+452705,Data Dictionary Review,Sarita Maria De Melo,Done,2 hours,2 hours,Sprint 10.3
+452706,UTCP 2,Diogo Loreto Leal,Invalid,5 hours,,Sprint 10.3
+452707,UTCR,Mateus Coutinho Sarmen,Done,6 hours,3 hours,Sprint 10.3
+452708,UTCR,Rajiv Albino Torreao,Done,6 hours,4 hours,Sprint 10.3
+452709,Unit Testing,Mateus Coutinho Sarmen,Done,8 hours,4 hours,Sprint 10.3
+452745,Requirement Review,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.4
+452746,Requirement Review,Rajiv Albino Torreao,Done,30 mins,1 hour 15 mins,Sprint 10.3
+452747,Design,Camila Corban Monteiro,Done,2 hours,1 hour 15 mins,Sprint 10.3
+452748,Design Review,Gilberto Andrade Sousa J,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.3
+452749,Data Dictionary,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.3
+452750,Data Dictionary Review,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.3
+452751,Data Dictionary Review,Gilberto Andrade Sousa J,Done,30 mins,30 mins,Sprint 10.4
+452752,Unit Testing,Mateus Coutinho Sarmen,Done,3 hours,2 hours,Sprint 10.4
+452753,Requirement Review,Reiron Ruan De Oliveira Lop,Done,2 hours,3 hours,Sprint 10.4
+452754,Requirement Review,Rajiv Albino Torreao,Done,30 mins,45 mins,Sprint 10.3
+452755,Design,Camila Corban Monteiro,Done,2 hours,1 hour 15 mins,Sprint 10.3
+452756,Design Review,Gilberto Andrade Sousa J,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.3
+452757,Data Dictionary,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.3
+452758,Data Dictionary Review,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.3
+452759,Data Dictionary Review,Sarita Maria De Melo,Done,1 hour 30 mins,2 hours,Sprint 10.4
+452760,Unit Testing,Reiron Ruan De Oliveira Lop,Done,2 hours,30 mins,Sprint 10.4
+452834,Code,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.3
+452835,Code Review,Marcela Wanderley De Si,Done,30 mins,18 mins,Sprint 10.3
+452836,Code Review,Reiron Ruan De Oliveira Lop,Done,30 mins,30 mins,Sprint 10.3
+452847,Proto SW update,Mateus Coutinho Sarmen,Done,2 hours 30 mins,3 hours,Sprint 10.3
+452849,Proto SW review,Marcela Wanderley De Si,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.3
+453244,Requirement Review,Rajiv Albino Torreao,Done,30 mins,48 mins,Sprint 10.3
+453245,Design,Camila Corban Monteiro,Done,2 hours,1 hour 15 mins,Sprint 10.3
+453246,Design Review,Gilberto Andrade Sousa J,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.3
+453247,Data Dictionary,Mateus Coutinho Sarmen,Done,45 mins,30 mins,Sprint 10.3
+453248,Data Dictionary Review,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.3
+453249,Requirement Review,Rajiv Albino Torreao,Done,30 mins,48 mins,Sprint 10.3
+453250,Design,Camila Corban Monteiro,Done,2 hours,1 hour 15 mins,Sprint 10.3
+453251,Design Review,Gilberto Andrade Sousa J,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.3
+453252,Data Dictionary,Mateus Coutinho Sarmen,Done,45 mins,30 mins,Sprint 10.3
+453253,Data Dictionary Review,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.3
+453254,Proto design,Camila Corban Monteiro,Done,4 hours,5 hours,Sprint 10.3
+453255,Proto review,Gilberto Andrade Sousa J,Done,3 hours,4 hours,Sprint 10.3
+453256,Proto code,Mateus Coutinho Sarmen,Done,3 hours,2 hours,Sprint 10.3
+453257,Proto review,Reiron Ruan De Oliveira Lop,Done,2 hours,1 hour 30 mins,Sprint 10.3
+453258,Proto code,Mateus Coutinho Sarmen,Done,3 hours,3 hours 30 mins,Sprint 10.3
+453259,Proto review,Reiron Ruan De Oliveira Lop,Done,2 hours,2 hours,Sprint 10.3
+453271,UTCP,Marcela Wanderley De Si,Done,8 hours,4 hours 18 mins,Sprint 10.3
+454178,Requirement Review,Rajiv Albino Torreao,Done,1 hour,1 hour,Sprint 10.3
+454179,Code,Mateus Coutinho Sarmen,Done,2 hours,1 hour 45 mins,Sprint 10.3
+454180,Code Review,Rajiv Albino Torreao,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.3
+454181,Data Dictionary,Mateus Coutinho Sarmen,Done,4 hours,3 hours,Sprint 10.3
+454182,Data Dictionary Review,Rajiv Albino Torreao,Done,2 hours,1 hour,Sprint 10.3
+454183,UTCP,Diogo Loreto Leal,Done,3 hours,5 hours 30 mins,Sprint 10.3
+454184,UTCR,Rajiv Albino Torreao,Done,2 hours 30 mins,2 hours 30 mins,Sprint 10.3
+454185,Unit Testing,Mateus Coutinho Sarmen,Done,4 hours,5 hours,Sprint 10.3
+454186,Sponsor Verification,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.3
+454814,Knowledge sharing and support,Camila Corban Monteiro,Done,5 hours,5 hours,Sprint 10.3
+454834,Implementation Review,Marcela Wanderley De Si,Done,30 mins,36 mins,Sprint 10.3
+459114,UTCR,Camila Corban Monteiro,Done,4 hours,3 hours,Sprint 10.4
+459187,Sponsor Verification,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.4
+459242,Requirement Review,Marcela Wanderley De Si,Done,1 hour,48 mins,Sprint 10.4
+459243,Code,Reiron Ruan De Oliveira Lop,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.4
+459244,Code Review,Mateus Coutinho Sarmen,Done,1 hour,1 hour,Sprint 10.4
+459245,Data Dictionary,Sarita Maria De Melo,Done,1 hour,1 hour 30 mins,Sprint 10.4
+459246,Data Dictionary Review,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.4
+459247,Unit Testing,Mateus Coutinho Sarmen,Done,3 hours,2 hours,Sprint 10.4
+459248,Requirement Review,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.4
+459249,Requirement Review,Rajiv Albino Torreao,Done,45 mins,30 mins,Sprint 10.4
+459250,Code,Rajiv Albino Torreao,Done,2 hours,2 hours,Sprint 10.4
+459251,Code Review,Gilberto Andrade Sousa J,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.4
+459252,Data Dictionary,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.4
+459253,Data Dictionary Review,Diogo Loreto Leal,Done,1 hour,2 hours,Sprint 10.4
+459254,Unit Testing,Rajiv Albino Torreao,Done,3 hours,1 hour 30 mins,Sprint 10.4
+459255,Requirement Review,Gilberto Andrade Sousa J,Done,30 mins,30 mins,Sprint 10.4
+459256,Requirement Review,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.4
+459257,Code,Mateus Coutinho Sarmen,Done,1 hour 30 mins,1 hour,Sprint 10.4
+459258,Code Review,Gilberto Andrade Sousa J,Done,1 hour,1 hour,Sprint 10.4
+459259,Data Dictionary,Mateus Coutinho Sarmen,Done,30 mins,15 mins,Sprint 10.5
+459260,Data Dictionary Review,Rajiv Albino Torreao,Done,1 hour,45 mins,Sprint 10.4
+459261,UTCP,Rajiv Albino Torreao,Done,2 hours 30 mins,45 mins,Sprint 10.4
+459262,UTCR,Reiron Ruan De Oliveira Lop,Done,2 hours,1 hour,Sprint 10.4
+459263,UTCR,Sarita Maria De Melo,Done,2 hours,1 hour,Sprint 10.4
+459264,Unit Testing,Sarita Maria De Melo,Done,3 hours,4 hours 15 mins,Sprint 10.4
+459266,Sponsor Verification,Sarita Maria De Melo,Done,30 mins,1 hour,Sprint 10.4
+459267,Requirement Review,Gilberto Andrade Sousa J,Done,45 mins,45 mins,Sprint 10.4
+459268,Requirement Review,Mateus Coutinho Sarmen,Done,45 mins,30 mins,Sprint 10.4
+459269,Code,Mateus Coutinho Sarmen,Done,2 hours,2 hours,Sprint 10.4
+459270,Code Review,Mateus Coutinho Sarmen,Done,1 hour 30 mins,45 mins,Sprint 10.4
+459271,Data Dictionary,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.4
+459272,Data Dictionary Review,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.4
+459273,Unit Testing,Marcela Wanderley De Si,In Development,2 hours,,Sprint 10.5
+459274,Requirement Review,Gilberto Andrade Sousa J,Done,45 mins,1 hour,Sprint 10.4
+459275,Design,Gilberto Andrade Sousa J,Done,2 hours 30 mins,4 hours,Sprint 10.4
+459276,Design Review,Camila Corban Monteiro,Done,2 hours,2 hours,Sprint 10.4
+459277,Data Dictionary,Gilberto Andrade Sousa J,Done,1 hour,2 hours,Sprint 10.4
+459278,Data Dictionary Review,Camila Corban Monteiro,Done,45 mins,45 mins,Sprint 10.4
+459279,Unit Testing,Camila Corban Monteiro,Done,2 hours 30 mins,2 hours 30 mins,Sprint 10.4
+459280,Code,Marcela Wanderley De Si,Done,2 hours,36 mins,Sprint 10.4
+459281,Code Review,Marcela Wanderley De Si,Done,1 hour 30 mins,42 mins,Sprint 10.5
+459282,Data Dictionary,Reiron Ruan De Oliveira Lop,Done,2 hours,1 hour 30 mins,Sprint 10.4
+459283,Code,Mateus Coutinho Sarmen,Done,2 hours,1 hour 30 mins,Sprint 10.5
+459284,Code Review,Marcela Wanderley De Si,Done,1 hour,24 mins,Sprint 10.5
+459285,Data Dictionary,Marcela Wanderley De Si,Done,1 hour,48 mins,Sprint 10.4
+459286,Code,Mateus Coutinho Sarmen,Done,1 hour,45 mins,Sprint 10.4
+459287,Code Review,Marcela Wanderley De Si,Done,45 mins,1 hour,Sprint 10.4
+459288,Code Review,Rajiv Albino Torreao,Done,45 mins,30 mins,Sprint 10.4
+459289,Code,Sarita Maria De Melo,Done,1 hour,45 mins,Sprint 10.4
+459290,Code Review,Rajiv Albino Torreao,Done,45 mins,30 mins,Sprint 10.4
+459291,Code Review,Mateus Coutinho Sarmen,Done,45 mins,30 mins,Sprint 10.4
+460002,UTCR,Sarita Maria De Melo,Done,2 hours,1 hour 30 mins,Sprint 10.4
+460014,UTCR,Mateus Coutinho Sarmen,Done,2 hours,1 hour 30 mins,Sprint 10.4
+460015,UTCP,Rajiv Albino Torreao,Done,2 hours 30 mins,4 hours,Sprint 10.4
+460166,[AirFlow] 12S - Code,Rajiv Albino Torreao,Done,2 hours,2 hours,Sprint 10.4
+460170,[AirFlow] 12S - Code Review,Gilberto Andrade Sousa J,Done,1 hour 30 mins,2 hours 30 mins,Sprint 10.5
+460171,[Thermal&Lub] 12S - Code,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.4
+460172,[Thermal&Lub] 12S - Code Review,Gilberto Andrade Sousa J,Done,45 mins,45 mins,Sprint 10.4
+460192,[Thermal&Lub] 127S - Code Review,Sarita Maria De Melo,Done,2 hours 30 mins,1 hour,Sprint 10.4
+460193,[Thermal&Lub] 127S - Code,Mateus Coutinho Sarmen,Done,3 hours 30 mins,1 hour,Sprint 10.4
+460194,[AirFlow] 127S - Code Review,Sarita Maria De Melo,Done,2 hours 30 mins,1 hour,Sprint 10.4
+460195,[AirFlow] 127S - Code,Mateus Coutinho Sarmen,Done,3 hours 30 mins,1 hour,Sprint 10.4
+460286,Requirement Review,Mateus Coutinho Sarmen,Done,1 hour,30 mins,Sprint 10.4
+460298,UTCP,Diogo Loreto Leal,Done,3 hours,4 hours,Sprint 10.4
+460299,UTCR,Marcela Wanderley De Si,Done,2 hours,54 mins,Sprint 10.4
+460300,UTCR,Mateus Coutinho Sarmen,Done,2 hours,1 hour,Sprint 10.4
+460459,UTCP,Mateus Coutinho Sarmen,Done,1 hour,45 mins,Sprint 10.4
+460460,UTCR,Rajiv Albino Torreao,Done,1 hour,30 mins,Sprint 10.4
+460461,UTCR,Camila Corban Monteiro,Done,1 hour,1 hour,Sprint 10.4
+460676,Review LCN based on initial mark-up (LCN_DRFE539 protoC),Gilberto Andrade Sousa J,Invalid,2 hours,,Sprint 10.4
+460770,Data Dictionary,Sarita Maria De Melo,Done,1 hour,30 mins,Sprint 10.5
+460772,Data Dictionary Review,Marcela Wanderley De Si,Done,30 mins,30 mins,Sprint 10.5
+460791,Unit Testing,Reiron Ruan De Oliveira Lop,Done,2 hours,1 hour 30 mins,Sprint 10.5
+460792,Data Dictionary,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.4
+460793,Data Dictionary Review,Marcela Wanderley De Si,Done,30 mins,30 mins,Sprint 10.4
+460794,Data Dictionary Review,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.4
+460795,UTCP,Marcela Wanderley De Si,Done,1 hour,1 hour 30 mins,Sprint 10.4
+460796,UTCR,Rajiv Albino Torreao,Done,45 mins,1 hour,Sprint 10.4
+460797,UTCR,Mateus Coutinho Sarmen,Done,45 mins,30 mins,Sprint 10.4
+460798,Unit Testing,Mateus Coutinho Sarmen,Done,1 hour,45 mins,Sprint 10.4
+460810,Data Dictionary,Sarita Maria De Melo,Done,30 mins,30 mins,Sprint 10.4
+460811,Data Dictionary Review,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.4
+460812,Data Dictionary Review,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.4
+460813,Unit Testing,Sarita Maria De Melo,Done,1 hour,1 hour 30 mins,Sprint 10.4
+460982,Improvement opportunities analysis (MW),Marcela Wanderley De Si,In Development,6 hours,7 hours 30 mins,Sprint 10.5
+460983,Improvement opportunities analysis (MW),Marcela Wanderley De Si,Done,8 hours,5 hours 12 mins,Sprint 10.4
+460984,Improvement opportunities analysis (RA),Rajiv Albino Torreao,Done,8 hours,4 hours,Sprint 10.4
+461482,Implementation,Euler Bakke Duarte De,Done,3 hours,5 hours,Sprint 10.4
+461485,Implementation,Euler Bakke Duarte De,Done,1 hour 30 mins,2 hours,Sprint 10.4
+461486,Implementation Review,Rajiv Albino Torreao,Done,2 hours,2 hours,Sprint 10.4
+461488,Implementation Review,Rajiv Albino Torreao,Done,1 hour,2 hours,Sprint 10.4
+461545,Data Dictionary,Camila Corban Monteiro,Done,1 hour,1 hour,Sprint 10.4
+461546,Data Dictionary Review,Reiron Ruan De Oliveira Lop,Done,1 hour,1 hour,Sprint 10.4
+461547,Data Dictionary Review,Diogo Loreto Leal,Done,1 hour,1 hour,Sprint 10.4
+461917,Implementation,Euler Bakke Duarte De,Done,1 hour 30 mins,3 hours 30 mins,Sprint 10.4
+461918,Implementation Review,Mateus Coutinho Sarmen,Done,1 hour,1 hour,Sprint 10.4
+462705,Knowledge sharing and support,Sarita Maria De Melo,Done,4 hours,4 hours,Sprint 10.4
+463346,Requirement Review,Gilberto Andrade Sousa J,Done,30 mins,1 hour,Sprint 10.4
+463347,Requirement Review,Camila Corban Monteiro,Done,30 mins,30 mins,Sprint 10.4
+463348,Design,Gilberto Andrade Sousa J,Done,1 hour,2 hours,Sprint 10.4
+463349,Design Review,Camila Corban Monteiro,Done,45 mins,1 hour,Sprint 10.5
+463350,Data Dictionary,Camila Corban Monteiro,Done,30 mins,30 mins,Sprint 10.4
+463351,Data Dictionary Review,Gilberto Andrade Sousa J,Done,30 mins,45 mins,Sprint 10.5
+463352,Sponsor Verification,Camila Corban Monteiro,Done,30 mins,1 hour 30 mins,Sprint 10.5
+463353,Requirement Review,Gilberto Andrade Sousa J,Done,1 hour 30 mins,2 hours,Sprint 10.4
+463354,Requirement Review,Camila Corban Monteiro,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.4
+463355,Design,Gilberto Andrade Sousa J,Done,3 hours,4 hours 30 mins,Sprint 10.4
+463356,Design Review,Camila Corban Monteiro,Done,2 hours,2 hours,Sprint 10.5
+463357,Data Dictionary,Camila Corban Monteiro,Done,2 hours 30 mins,2 hours 30 mins,Sprint 10.4
+463358,Data Dictionary Review,Gilberto Andrade Sousa J,Done,1 hour 30 mins,2 hours,Sprint 10.5
+463359,Sponsor Verification,Camila Corban Monteiro,Done,30 mins,1 hour 30 mins,Sprint 10.5
+463360,Requirement Review,Mateus Coutinho Sarmen,Done,30 mins,15 mins,Sprint 10.4
+463361,Requirement Review,Marcela Wanderley De Si,Done,30 mins,18 mins,Sprint 10.4
+463362,Code,Mateus Coutinho Sarmen,Done,1 hour 30 mins,45 mins,Sprint 10.4
+463363,Code Review,Marcela Wanderley De Si,Done,1 hour,1 hour 6 mins,Sprint 10.5
+463364,Data Dictionary,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.4
+463365,Data Dictionary Review,Marcela Wanderley De Si,Done,30 mins,12 mins,Sprint 10.5
+463366,Sponsor Verification,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.5
+463367,Requirement Review,Mateus Coutinho Sarmen,Done,30 mins,15 mins,Sprint 10.4
+463368,Requirement Review,Sarita Maria De Melo,Done,30 mins,30 mins,Sprint 10.4
+463369,Code,Mateus Coutinho Sarmen,Done,1 hour 30 mins,45 mins,Sprint 10.4
+463370,Code Review,Sarita Maria De Melo,Done,1 hour,30 mins,Sprint 10.4
+463371,Data Dictionary,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.4
+463372,Data Dictionary Review,Sarita Maria De Melo,Done,30 mins,30 mins,Sprint 10.4
+463373,Sponsor Verification,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.4
+463374,Requirement Review,Euler Bakke Duarte De,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.4
+463375,Requirement Review,Mateus Coutinho Sarmen,Done,1 hour 30 mins,1 hour,Sprint 10.4
+463376,Code,Mateus Coutinho Sarmen,Done,2 hours,2 hours,Sprint 10.4
+463377,Code Review,Rajiv Albino Torreao,Done,1 hour 30 mins,2 hours,Sprint 10.5
+463378,Data Dictionary,Mateus Coutinho Sarmen,Done,1 hour 30 mins,30 mins,Sprint 10.4
+463379,Data Dictionary Review,Rajiv Albino Torreao,Done,1 hour,1 hour,Sprint 10.5
+463380,UTCP,Sarita Maria De Melo,Done,3 hours,2 hours 30 mins,Sprint 10.5
+463381,UTCR,Rajiv Albino Torreao,Done,2 hours,2 hours,Sprint 10.5
+463382,UTCR,Diogo Loreto Leal,Done,2 hours,2 hours 48 mins,Sprint 10.5
+463383,Unit Testing,Diogo Loreto Leal,Done,3 hours,7 hours,Sprint 10.5
+463384,Sponsor Verification,Diogo Loreto Leal,New,30 mins,,Sprint 10.5
+463385,Requirement Review,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.4
+463386,Requirement Review,Gilberto Andrade Sousa J,Done,30 mins,45 mins,Sprint 10.4
+463387,Design,Gilberto Andrade Sousa J,Done,2 hours,4 hours,Sprint 10.4
+463388,Design Review,Camila Corban Monteiro,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.5
+463389,UTCP,Mateus Coutinho Sarmen,Done,1 hour,1 hour,Sprint 10.5
+463390,UTCR,Reiron Ruan De Oliveira Lop,Done,45 mins,30 mins,Sprint 10.5
+463391,UTCR,Diogo Loreto Leal,Done,45 mins,42 mins,Sprint 10.5
+463392,Unit Testing,Reiron Ruan De Oliveira Lop,Done,2 hours,2 hours,Sprint 10.5
+463393,Sponsor Verification,Reiron Ruan De Oliveira Lop,New,30 mins,,Sprint 10.5
+463394,Design & DD Review,Reiron Ruan De Oliveira Lop,Done,2 hours 30 mins,2 hours 30 mins,Sprint 10.4
+463395,Design & DD Review,Sarita Maria De Melo,Done,2 hours 30 mins,2 hours 30 mins,Sprint 10.4
+463396,Unit Tests Review,Reiron Ruan De Oliveira Lop,Done,2 hours,2 hours,Sprint 10.4
+463397,Unit Testing,Sarita Maria De Melo,Done,3 hours,4 hours 30 mins,Sprint 10.4
+463398,[AirFlow] 119S - Code,Mateus Coutinho Sarmen,Done,1 hour 30 mins,45 mins,Sprint 10.4
+463399,[AirFlow] 119S - Code Review,Sarita Maria De Melo,Done,1 hour,30 mins,Sprint 10.4
+463400,[AirFlow] 63S - Code,Mateus Coutinho Sarmen,Done,1 hour 30 mins,45 mins,Sprint 10.4
+463401,[AirFlow] 63S - Code Review,Sarita Maria De Melo,Done,1 hour,30 mins,Sprint 10.4
+463945,Review confirmed LCN (LCN_DRFE539),Gilberto Andrade Sousa J,Done,2 hours,30 mins,Sprint 10.4
+464463,Data Dictionary,Reiron Ruan De Oliveira Lop,Done,30 mins,30 mins,Sprint 10.4
+464464,Data Dictionary Review,Sarita Maria De Melo,Done,30 mins,45 mins,Sprint 10.4
+465557,[Thermal&Lub] 612S - Code,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.4
+465558,[Thermal&Lub] 612S - Code Review,Gilberto Andrade Sousa J,Done,30 mins,30 mins,Sprint 10.4
+465559,[AirFlow] 403S - Code,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.4
+465560,[AirFlow] 403S - Code Review,Marcela Wanderley De Si,Done,30 mins,48 mins,Sprint 10.4
+465561,[AirFlow] 18D - Code,Mateus Coutinho Sarmen,Done,1 hour,1 hour,Sprint 10.4
+465562,[AirFlow] 18D - Code Review,Marcela Wanderley De Si,Done,45 mins,1 hour 18 mins,Sprint 10.4
+465563,[AirFlow] 137D - Code,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.4
+465564,[AirFlow] 137D - Code Review,Sarita Maria De Melo,Done,30 mins,30 mins,Sprint 10.4
+465565,[AirFlow] 612S - Code,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.4
+465566,[AirFlow] 612S - Code Review,Sarita Maria De Melo,Done,30 mins,30 mins,Sprint 10.4
+465584,[Thermal&Lub] 322S - Code,Mateus Coutinho Sarmen,Done,1 hour,1 hour,Sprint 10.4
+465585,[Thermal&Lub] 322S - Code Review,Gilberto Andrade Sousa J,Done,45 mins,45 mins,Sprint 10.4
+465852,UTCP,Diogo Loreto Leal,Done,3 hours,3 hours,Sprint 10.4
+465950,Implementation,Diogo Loreto Leal,Done,1 hour,1 hour,Sprint 10.4
+465951,Implementation review,Marcela Wanderley De Si,Done,1 hour,30 mins,Sprint 10.4
+466230,Finalization DRFE532 Proto16,Gilberto Andrade Sousa J,Done,1 hour,45 mins,Sprint 10.4
+468010,SRD investigation and reduction tests,Gilberto Andrade Sousa J,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.4
+468783,Implementation,Sarita Maria De Melo,Done,2 hours 30 mins,2 hours,Sprint 10.5
+468785,Implementation review,Mateus Coutinho Sarmen,Done,1 hour 30 mins,45 mins,Sprint 10.5
+468805,Implementation,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.5
+468807,Implementation review,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.5
+468914,MR errors review,Camila Corban Monteiro,Done,30 mins,30 mins,Sprint 10.5
+468915,MR errors Review,Camila Corban Monteiro,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.5
+468987,Implementation,Unassigned,Invalid,,,Sprint 10.5
+468988,Implementation review,Unassigned,Invalid,,,Sprint 10.5
+469116,Investigation and reduction review,Camila Corban Monteiro,Done,1 hour,1 hour,Sprint 10.5
+470491,[Thermal&Lub] 330S - Code,Mateus Coutinho Sarmen,Done,2 hours,45 mins,Sprint 10.5
+470492,[Thermal&Lub] 330S - Code Review,Reiron Ruan De Oliveira Lop,New,1 hour,,Sprint 10.5
+470493,[Thermal&Lub] 446S - Code,Diogo Loreto Leal,New,1 hour 30 mins,,Sprint 10.5
+470494,[Thermal&Lub] 446S - Code Review,Camila Corban Monteiro,New,1 hour,,Sprint 10.5
+470495,[AirFlow] 62S - Code,Mateus Coutinho Sarmen,Done,1 hour 30 mins,3 hours,Sprint 10.5
+470496,[AirFlow] 62S - Code Review,Rajiv Albino Torreao,New,1 hour,,Sprint 10.5
+470497,[AirFlow] 330S - Code,Mateus Coutinho Sarmen,Done,1 hour,45 mins,Sprint 10.5
+470498,[AirFlow] 330S - Code Review,Sarita Maria De Melo,New,1 hour,,Sprint 10.5
+470499,[AirFlow] 446S - Code,Mateus Coutinho Sarmen,Done,1 hour,30 mins,Sprint 10.5
+470500,[AirFlow] 446S - Code Review,Sarita Maria De Melo,New,1 hour,,Sprint 10.5
+470501,Requirement Review,Marcela Wanderley De Si,Done,45 mins,30 mins,Sprint 10.5
+470502,Requirement Review,Mateus Coutinho Sarmen,Done,45 mins,30 mins,Sprint 10.5
+470503,Sponsor Verification,Marcela Wanderley De Si,New,1 hour,,Sprint 10.5
+470504,Requirement Review,Reiron Ruan De Oliveira Lop,Done,45 mins,48 mins,Sprint 10.5
+470505,Requirement Review,Sarita Maria De Melo,Done,45 mins,30 mins,Sprint 10.5
+470506,Code,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.5
+470507,Code Review,Reiron Ruan De Oliveira Lop,Done,45 mins,1 hour 30 mins,Sprint 10.5
+470508,Code Review,Sarita Maria De Melo,New,1 hour,,Sprint 10.5
+470509,Data Dictionary Review,Reiron Ruan De Oliveira Lop,Done,45 mins,30 mins,Sprint 10.5
+470511,Sponsor Verification,Reiron Ruan De Oliveira Lop,New,1 hour,,Sprint 10.5
+470512,Requirement Review,Marcela Wanderley De Si,Done,30 mins,18 mins,Sprint 10.5
+470513,Requirement Review,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.5
+470514,Code,Mateus Coutinho Sarmen,Done,1 hour 30 mins,1 hour,Sprint 10.5
+470515,Code Review,Sarita Maria De Melo,Done,45 mins,30 mins,Sprint 10.5
+470516,Code Review,Sarita Maria De Melo,New,1 hour 30 mins,,Sprint 10.5
+470518,Data Dictionary Review,Sarita Maria De Melo,New,30 mins,,Sprint 10.5
+470519,Data Dictionary Review,Sarita Maria De Melo,Done,30 mins,30 mins,Sprint 10.5
+470520,Unit Testing,Mateus Coutinho Sarmen,Done,4 hours,30 mins,Sprint 10.5
+470521,Sponsor Verification,Mateus Coutinho Sarmen,Done,1 hour,30 mins,Sprint 10.5
+470522,Requirement Review,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.5
+470523,Requirement Review,Sarita Maria De Melo,Done,30 mins,15 mins,Sprint 10.5
+470524,Code,Rajiv Albino Torreao,In Development,1 hour 30 mins,1 hour,Sprint 10.5
+470525,Code Review,Diogo Loreto Leal,New,45 mins,,Sprint 10.5
+470526,Code Review,Rajiv Albino Torreao,New,45 mins,,Sprint 10.5
+470528,Data Dictionary Review,Diogo Loreto Leal,New,30 mins,,Sprint 10.5
+470529,Data Dictionary Review,Rajiv Albino Torreao,New,30 mins,,Sprint 10.5
+470530,Unit Testing,Sarita Maria De Melo,New,4 hours,,Sprint 10.5
+470531,Sponsor Verification,Sarita Maria De Melo,New,1 hour,,Sprint 10.5
+470532,Requirement Review,Sarita Maria De Melo,In Development,45 mins,30 mins,Sprint 10.5
+470533,Requirement Review,Rajiv Albino Torreao,Done,45 mins,30 mins,Sprint 10.5
+470534,Code,Rajiv Albino Torreao,In Development,2 hours,1 hour,Sprint 10.5
+470535,Code Review,Camila Corban Monteiro,New,45 mins,,Sprint 10.5
+470536,Code Review,Mateus Coutinho Sarmen,Done,45 mins,45 mins,Sprint 10.5
+470537,Data Dictionary,Rajiv Albino Torreao,In Development,30 mins,30 mins,Sprint 10.5
+470538,Data Dictionary Review,Camila Corban Monteiro,New,30 mins,,Sprint 10.5
+470539,Data Dictionary Review,Mateus Coutinho Sarmen,Done,30 mins,30 mins,Sprint 10.5
+470540,Unit Testing,Sarita Maria De Melo,New,2 hours,,Sprint 10.5
+470541,Sponsor Verification,Sarita Maria De Melo,New,1 hour,,Sprint 10.5
+470542,Requirement Review,Mateus Coutinho Sarmen,Done,30 mins,15 mins,Sprint 10.5
+470543,Requirement Review,Rajiv Albino Torreao,Done,30 mins,30 mins,Sprint 10.5
+470544,Code,Rajiv Albino Torreao,New,1 hour 30 mins,,Sprint 10.5
+470545,Code Review,Diogo Loreto Leal,New,1 hour,,Sprint 10.5
+470546,Code Review,Mateus Coutinho Sarmen,New,1 hour,,Sprint 10.5
+470550,Unit Testing,Diogo Loreto Leal,New,2 hours,,Sprint 10.5
+470551,Sponsor Verification,Diogo Loreto Leal,New,30 mins,,Sprint 10.5
+470571,Requirement Review,Reiron Ruan De Oliveira Lop,New,1 hour,,Sprint 10.5
+470572,Requirement Review,Mateus Coutinho Sarmen,New,1 hour,,Sprint 10.5
+470573,Code,Mateus Coutinho Sarmen,Done,1 hour 30 mins,1 hour,Sprint 10.5
+470574,Code Review,Rajiv Albino Torreao,Done,45 mins,1 hour,Sprint 10.5
+470575,Code Review,Reiron Ruan De Oliveira Lop,New,45 mins,,Sprint 10.5
+470580,Unit Testing,Rajiv Albino Torreao,New,1 hour,,Sprint 10.5
+470581,Sponsor Verification,Rajiv Albino Torreao,Invalid,30 mins,,Sprint 10.5
+470582,Requirement Review,Sarita Maria De Melo,New,1 hour,,Sprint 10.5
+470583,Requirement Review,Rajiv Albino Torreao,New,1 hour,,Sprint 10.5
+470584,Code,Mateus Coutinho Sarmen,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.5
+470585,Code Review,Rajiv Albino Torreao,New,45 mins,,Sprint 10.5
+470586,Code Review,Sarita Maria De Melo,New,45 mins,,Sprint 10.5
+470590,Unit Testing,Mateus Coutinho Sarmen,Done,3 hours,2 hours 30 mins,Sprint 10.5
+470591,Sponsor Verification,Mateus Coutinho Sarmen,Invalid,30 mins,,Sprint 10.5
+470592,Requirement Review,Marcela Wanderley De Si,Done,1 hour,1 hour,Sprint 10.5
+470593,Design,Camila Corban Monteiro,Done,2 hours 30 mins,2 hours 30 mins,Sprint 10.5
+470594,Design Review,Gilberto Andrade Sousa J,Done,1 hour 30 mins,1 hour 30 mins,Sprint 10.5
+470597,UTCP,Diogo Loreto Leal,Done,2 hours,3 hours,Sprint 10.5
+470598,UTCR,Marcela Wanderley De Si,Done,1 hour,1 hour 30 mins,Sprint 10.5
+470599,Unit Testing,Diogo Loreto Leal,New,1 hour 30 mins,,Sprint 10.5
+470600,Sponsor Verification,Diogo Loreto Leal,New,30 mins,,Sprint 10.5
+470601,Requirement Review,Reiron Ruan De Oliveira Lop,Done,1 hour,1 hour,Sprint 10.5
+470602,Design,Camila Corban Monteiro,New,4 hours,,Sprint 10.5
+470603,Design Review,Gilberto Andrade Sousa J,New,3 hours,,Sprint 10.5
+470604,Data Dictionary,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.5
+470605,Data Dictionary Review,Reiron Ruan De Oliveira Lop,Done,30 mins,30 mins,Sprint 10.5
+470606,UTCP,Mateus Coutinho Sarmen,Done,2 hours 30 mins,1 hour 30 mins,Sprint 10.5
+470607,UTCR,Sarita Maria De Melo,Done,1 hour 30 mins,30 mins,Sprint 10.5
+470608,Unit Testing,Mateus Coutinho Sarmen,In Development,2 hours,1 hour,Sprint 10.5
+470609,Sponsor Verification,Mateus Coutinho Sarmen,New,30 mins,,Sprint 10.5
+470610,Requirement Review,Gilberto Andrade Sousa J,In Development,1 hour,1 hour,Sprint 10.5
+470611,Design,Gilberto Andrade Sousa J,New,2 hours 30 mins,,Sprint 10.5
+470612,Design Review,Camila Corban Monteiro,New,2 hours,,Sprint 10.5
+470613,Data Dictionary,Camila Corban Monteiro,New,30 mins,,Sprint 10.5
+470614,Data Dictionary Review,Gilberto Andrade Sousa J,New,30 mins,,Sprint 10.5
+470615,Unit Testing,Mateus Coutinho Sarmen,New,1 hour 30 mins,,Sprint 10.5
+470616,Sponsor Verification,Mateus Coutinho Sarmen,New,30 mins,,Sprint 10.5
+470617,Requirement Review,Sarita Maria De Melo,Done,1 hour,2 hours,Sprint 10.5
+470618,Design,Gilberto Andrade Sousa J,In Development,2 hours 30 mins,,Sprint 10.5
+470619,Design Review,Camila Corban Monteiro,New,1 hour 30 mins,,Sprint 10.5
+470622,Unit Testing,Sarita Maria De Melo,New,1 hour 30 mins,,Sprint 10.5
+470623,Sponsor Verification,Sarita Maria De Melo,New,30 mins,,Sprint 10.5
+470624,Requirement Review,Marcela Wanderley De Si,Done,45 mins,42 mins,Sprint 10.5
+470625,Requirement Review,Gilberto Andrade Sousa J,Done,45 mins,45 mins,Sprint 10.5
+470626,Design,Camila Corban Monteiro,Done,2 hours 30 mins,2 hours,Sprint 10.5
+470627,Design Review,Gilberto Andrade Sousa J,New,2 hours,,Sprint 10.5
+470628,Data Dictionary,Mateus Coutinho Sarmen,Done,45 mins,30 mins,Sprint 10.5
+470629,Data Dictionary Review,Marcela Wanderley De Si,New,30 mins,,Sprint 10.5
+470630,Unit Testing,Reiron Ruan De Oliveira Lop,New,2 hours,,Sprint 10.5
+470631,Sponsor Verification,Reiron Ruan De Oliveira Lop,New,30 mins,,Sprint 10.5
+470632,Requirement Review,Marcela Wanderley De Si,Done,1 hour,48 mins,Sprint 10.5
+470633,Requirement Review,Gilberto Andrade Sousa J,Done,1 hour,1 hour,Sprint 10.5
+470634,Design,Camila Corban Monteiro,Done,3 hours 30 mins,3 hours,Sprint 10.5
+470635,Design Review,Gilberto Andrade Sousa J,New,3 hours,,Sprint 10.5
+470636,Data Dictionary,Mateus Coutinho Sarmen,Done,1 hour,30 mins,Sprint 10.5
+470637,Data Dictionary Review,Marcela Wanderley De Si,New,1 hour,,Sprint 10.5
+470638,Unit Testing,Marcela Wanderley De Si,New,1 hour,,Sprint 10.5
+470639,Sponsor Verification,Marcela Wanderley De Si,New,30 mins,,Sprint 10.5
+471213,Requirement Review,Camila Corban Monteiro,Done,1 hour,30 mins,Sprint 10.5
+471214,Requirement Review,Gilberto Andrade Sousa J,Done,1 hour,1 hour,Sprint 10.5
+471215,Design,Camila Corban Monteiro,Done,3 hours,2 hours,Sprint 10.5
+471216,Data Dictionary,Mateus Coutinho Sarmen,Done,30 mins,15 mins,Sprint 10.5
+471237,Design Review,Gilberto Andrade Sousa J,In Development,2 hours,1 hour,Sprint 10.5
+471238,Data Dictionary Review,Camila Corban Monteiro,New,30 mins,,Sprint 10.5
+471239,Unit Testing,Gilberto Andrade Sousa J,New,1 hour,0 hours,Sprint 10.5
+471240,Sponsor Verification,Gilberto Andrade Sousa J,New,30 mins,,Sprint 10.5
+472067,Code,Mateus Coutinho Sarmen,Done,1 hour,45 mins,Sprint 10.5
+472068,Code Review,Camila Corban Monteiro,New,45 mins,,Sprint 10.5
+472069,Unit Testing,Camila Corban Monteiro,New,1 hour,,Sprint 10.5
+472070,Unit Testing,Marcela Wanderley De Si,New,1 hour,,Sprint 10.5
+472071,Code,Marcela Wanderley De Si,New,1 hour,,Sprint 10.5
+472072,Data Dictionary,Marcela Wanderley De Si,New,30 mins,,Sprint 10.5
+472081,Code,Sarita Maria De Melo,Done,1 hour,1 hour,Sprint 10.5
+472082,Data Dictionary,Sarita Maria De Melo,Done,30 mins,30 mins,Sprint 10.5
+472083,Unit Testing,Sarita Maria De Melo,Done,1 hour,30 mins,Sprint 10.5
+472159,Design,Camila Corban Monteiro,New,4 hours,,Sprint 10.5
+472173,Design,Camila Corban Monteiro,New,5 hours,,Sprint 10.5
+472211,Improvement opportunities analysis (GS),Gilberto Andrade Sousa J,New,2 hours,,Sprint 10.5
+472212,Improvement opportunities analysis (MS),Mateus Coutinho Sarmen,Done,2 hours,2 hours,Sprint 10.5
+472213,Improvement opportunities analysis (RA),Rajiv Albino Torreao,Done,6 hours,1 hour,Sprint 10.5
+472214,Improvement opportunities analysis (SM),Sarita Maria De Melo,New,2 hours,,Sprint 10.5
+472700,UTCP,Reiron Ruan De Oliveira Lop,New,1 hour,,Sprint 10.5
+472701,UTCR,Mateus Coutinho Sarmen,New,45 mins,,Sprint 10.5
+472968,Requirement Review,Sarita Maria De Melo,Done,1 hour,1 hour 30 mins,Sprint 10.5
+472969,Design Review,Reiron Ruan De Oliveira Lop,New,3 hours,,Sprint 10.5
+472970,Data Dictionary Review,Gilberto Andrade Sousa J,New,30 mins,,Sprint 10.5
+472971,UTCR,Reiron Ruan De Oliveira Lop,New,1 hour 30 mins,,Sprint 10.5
+474331,Review updated base figure file 10A (LCN RFE21-8),Gilberto Andrade Sousa J,Done,1 hour,45 mins,Sprint 10.5
+474332,Review LCN based on initial mark-up (LCN_D62TE477 protoA),Marcela Wanderley De Si,New,1 hour,,Sprint 10.5
